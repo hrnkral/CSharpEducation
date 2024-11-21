@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35514.174 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veriables", "veriables\veriables.csproj", "{FD09F64C-B6A5-4CFF-AB3A-7AAF1FB19BC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{455AA90B-F02F-40C7-A0B3-BF05465A01C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FD09F64C-B6A5-4CFF-AB3A-7AAF1FB19BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD09F64C-B6A5-4CFF-AB3A-7AAF1FB19BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD09F64C-B6A5-4CFF-AB3A-7AAF1FB19BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{455AA90B-F02F-40C7-A0B3-BF05465A01C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455AA90B-F02F-40C7-A0B3-BF05465A01C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455AA90B-F02F-40C7-A0B3-BF05465A01C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455AA90B-F02F-40C7-A0B3-BF05465A01C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
